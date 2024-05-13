@@ -9,9 +9,10 @@ const PORT = process.env.PORT || 5000;
 
 dotenv.config();
 
+app.use(express.json());
 app.use("/api/auth", authRoutes);
 
-app.use(express.json()); // To parse the incoming requests with JSON payloads (from req.body)
+ // To parse the incoming requests with JSON payloads (from req.body)
 
 // app.get("/", (req, res) =>{
     //root route http://localhost:5000/
