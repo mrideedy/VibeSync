@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background: linear-gradient(rgb(15, 25, 46), rgba(0,0,.2)),url("https://images.unsplash.com/photo-1498575637358-821023f27355?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
