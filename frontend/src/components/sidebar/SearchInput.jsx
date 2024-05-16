@@ -10,4 +10,20 @@ const SearchInput = () => {
   )
 }
 
-export default SearchInput
+export default SearchInput;
+
+
+// STARTER CODE OF THIS FILE
+// import { IoSearchSharp } from "react-icons/io5";
+// const SearchInput = () => {
+//   return (
+//     <form className="flex items-center gap-2">
+//         <input type="text" placeholder="Search..." className="input input-bordered rounded-full" />
+//         <button type="submit" className="btn btn-circle bg-cyan-500 text-white">
+//         <IoSearchSharp className="w-6 h-6 outline-none"/>
+//         </button>
+//     </form>
+//   )
+// }
+
+// export default SearchInput

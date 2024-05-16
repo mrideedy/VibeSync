@@ -3,7 +3,7 @@ const Conversation = () => {
   return <>
   <div className="flex gap-2 items-center hover:bg-cyan-500 rounded p-2 py-1 cursor-pointer ">
   <div className="avatar online">
-    <div className="w-24 rounded-full">
+    <div className="w-12 rounded-full">
       <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
     </div>
 </div>
@@ -15,12 +15,40 @@ const Conversation = () => {
 
     </div>
   </div>
-  <div className="divider my-8 py-8 h-1">
+  <div className="divider my-1 py-1 h-1" />
 
-  </div>
+
   </>
     
   
 }
 
-export default Conversation
+export default Conversation;
+
+
+// STARTER CODE OF THIS FILE
+// const Conversation = () => {
+//   return <>
+//   <div className="flex gap-2 items-center hover:bg-cyan-500 rounded p-2 py-1 cursor-pointer ">
+//   <div className="avatar online">
+//     <div className="w-12 rounded-full">
+//       <img src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
+//     </div>
+// </div>
+//     <div className="flex flex-col flex-1">
+//         <div className="flex gap-3 justify-between">
+//             <p className="font-bold text-gray-200">John Doe</p>
+//             <span className="text-x1"></span>
+//         </div>
+
+//     </div>
+//   </div>
+//   <div className="divider my-1 py-1 h-1" />
+
+
+//   </>
+    
+  
+// }
+
+// export default Conversation
