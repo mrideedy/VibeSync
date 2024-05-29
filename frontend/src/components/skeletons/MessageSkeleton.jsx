@@ -17,4 +17,7 @@ const MessageSkeleton = () => {
 		</>
 	);
 };
+
+// CODE SNIPPET
+
 export default MessageSkeleton;

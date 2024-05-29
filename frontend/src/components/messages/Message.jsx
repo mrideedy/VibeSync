@@ -25,4 +25,6 @@ const Message = ({ message }) => {
 		</div>
 	);
 };
+// Complete export
+
 export default Message;

@@ -34,7 +34,8 @@ const Messages = () => {
 };
 export default Messages;
 
-// STARTER CODE SNIPPET
+// CODE SNIPPET
+
 // import Message from "./Message";
 
 // const Messages = () => {

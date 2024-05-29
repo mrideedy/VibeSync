@@ -36,7 +36,8 @@ const Conversation = ({ conversation, lastIdx, emoji }) => {
 };
 export default Conversation;
 
-// STARTER CODE SNIPPET
+// CODE SNIPPET
+
 // const Conversation = () => {
 // 	return (
 // 		<>

@@ -37,7 +37,8 @@ const MessageInput = () => {
 };
 export default MessageInput;
 
-// STARTER CODE SNIPPET
+// CODE SNIPPET
+
 // import { BsSend } from "react-icons/bs";
 
 // const MessageInput = () => {

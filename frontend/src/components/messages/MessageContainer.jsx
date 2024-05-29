@@ -48,7 +48,7 @@ const NoChatSelected = () => {
 	);
 };
 
-// STARTER CODE SNIPPET
+// CODE SNIPPET
 // import MessageInput from "./MessageInput";
 // import Messages from "./Messages";
 

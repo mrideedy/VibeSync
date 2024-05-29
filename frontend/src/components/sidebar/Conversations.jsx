@@ -21,7 +21,7 @@ const Conversations = () => {
 };
 export default Conversations;
 
-// STARTER CODE SNIPPET
+// CODE SNIPPET
 // import Conversation from "./Conversation";
 
 // const Conversations = () => {
